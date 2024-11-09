@@ -1,5 +1,6 @@
 annotated-types==0.7.0
 anyio==4.6.2.post1
+app==0.0.1
 asgiref==3.8.1
 assemblyai==0.35.1
 cachetools==5.5.0
